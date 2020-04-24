@@ -5,5 +5,4 @@ name = input(" Введите ваше имя")
 if name in ban_users:
     exit()
 else:
-    print("День добрый")
-
+    print("День добрый!")
